@@ -1,0 +1,10 @@
+{
+  "alias": "timecom.glutenproject.com",
+  "env": {
+    "TGP_NETWORK_TOKEN": "@tgp-network-token",
+    "SENTRY_DSN_TIMECOM": "@sentry-dsn-timecom"
+  },
+  "public": true
+}
+
+
